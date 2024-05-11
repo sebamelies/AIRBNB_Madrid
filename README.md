@@ -137,27 +137,27 @@ El número de shared_room que acomodan 6 personas, tienen un precio de menos de 
 El número de shared_room que acomodan 5 personas y tienen un precio de menos de 70 euros es: 0  
 El número de shared_room que acomodan 6 personas y tienen un precio de menos de 70 euros es: 9  
 
-Diferencia en la mediana para amenities_wifi_internet:  
+<font size="3">Diferencia en la mediana para amenities_wifi_internet:  
 ------------------------------------------------------  
 - Acomodates 3 personas: nan  
 - Acomodates 4 personas: -39.5  
 
-Diferencia en la mediana para amenities_tv:  
+<font size="3"> Diferencia en la mediana para amenities_tv:  
 ------------------------------------------------------  
 - Acomodates 3 personas: -10.0  
 - Acomodates 4 personas: -11.0  
 
-Diferencia en la mediana para amenities_air_conditioning:  
+<font size="3"> Diferencia en la mediana para amenities_air_conditioning:  
 ------------------------------------------------------  
 - Acomodates 3 personas: -25.0  
 - Acomodates 4 personas: -4.5  
 
-Diferencia en la mediana para amenities_heating:  
+<font size="3"> Diferencia en la mediana para amenities_heating:  
 ------------------------------------------------------  
 - Acomodates 3 personas: -40.0  
 - Acomodates 4 personas: -25.5  
 
-Diferencia en la mediana para amenities_kitchen:  
+<font size="3"> Diferencia en la mediana para amenities_kitchen:  
 ------------------------------------------------------  
 - Acomodates 2 personas: -7.5  
 
@@ -185,21 +185,21 @@ Diferencia en la mediana para amenities_kitchen:
 El número de private_room que acomodan 5 personas y tienen un precio de menos de 120 euros es: 33  
 El número de private_room que acomodan 6 personas y tienen un precio de menos de 120 euros es: 18  
 
-Diferencia en la mediana para amenities_wifi_internet
+<font size="3"> Diferencia en la mediana para amenities_wifi_internet
 ------------------------------------------------------
 Para habitación privada:  
 - Tener WIFI puede aumentar el precio para habitaciones privadas de 2 personas y 5 personas.  
   - Acomodates 2 personas: -3.0  
   - Acomodates 5 personas: -31.5  
 
-Diferencia en la mediana para amenities_tv
+<font size="3"> Diferencia en la mediana para amenities_tv
 ------------------------------------------------------
 Para habitación privada:  
 - Tener TV puede aumentar el precio ligeramente para habitaciones privadas de 4 y 5 personas.  
   - Acomodates 4 personas: -3.0  
   - Acomodates 5 personas: -3.0  
 
-Diferencia en la mediana para amenities_air_conditioning
+<font size="3"> Diferencia en la mediana para amenities_air_conditioning
 ------------------------------------------------------
 Para habitación privada:  
 - Tener AIRE ACONDICIONADO puede aumentar el precio para 4, 5 y 6 personas.  
@@ -207,7 +207,7 @@ Para habitación privada:
   - Acomodates 5 personas: -18.0  
   - Acomodates 6 personas: -11.5  
 
-Diferencia en la mediana para amenities_heating
+<font size="3"> Diferencia en la mediana para amenities_heating
 ------------------------------------------------------
 Para habitación privada:  
 - Tener CALEFACCIÓN puede aumentar el precio para 3, 4, 5 y 6 personas.  
@@ -216,7 +216,7 @@ Para habitación privada:
   - Acomodates 5 personas: -26.0  
   - Acomodates 6 personas: -11.0  
 
-Diferencia en la mediana para amenities_kitchen
+<font size="3"> Diferencia en la mediana para amenities_kitchen
 ------------------------------------------------------
 Para habitación privada:  
 - Tener COCINA puede aumentar el precio para habitaciones privadas de 1, 2, 3, 4 y 5 personas.  
@@ -248,27 +248,28 @@ Considerando el rango de precios de 0 a 300 euros.
 </p>
 
 El número de entire_home_apt que acomodan 4 personas y tienen un precio de menos de 300 euros es: 4476
-El número de entire_home_apt que acomodan 6 personas y tienen un precio de menos de 300 euros es: 1698
-## Diferencia en la mediana para amenities_wifi_internet
+El número de entire_home_apt que acomodan 6 personas y tienen un precio de menos de 300 euros es: 1698  
+
+<font size="3">Diferencia en la mediana para amenities_wifi_internet
 ------------------------------------------------------
 Para piso/casa entera:
 - Tener WIFI puede aumentar el precio para piso/casa entera que acomode a 4 personas.
 Acomodates 4 personas: -1.0
 ------------------------------------------------------
-## Diferencia en la mediana para amenities_tv
+<font size="3"> Diferencia en la mediana para amenities_tv
 ------------------------------------------------------
 Para piso/casa entera:
 - Tener TV puede aumentar el precio ligeramentepara piso/casa entera que acomode a 6 personas.
 Acomodates 6 personas: -1.0
 ------------------------------------------------------
-## Diferencia en la mediana para amenities_heating
+<font size="3">Diferencia en la mediana para amenities_heating
 ------------------------------------------------------
 Para piso/casa entera:
 - Tener CALEFACCIÓN puede aumentar el precio para piso/casa entera que acomode a 1 persona o 6 personas.
 Acomodates 1 persona: -47.5
 Acomodates 6 personas: -0.5
 ------------------------------------------------------
-## Diferencia en la mediana para amenities_kitchen
+<font size="3"> Diferencia en la mediana para amenities_kitchen
 ------------------------------------------------------
 Para piso/casa entera:
 - Tener COCINA puede aumentar el precio para piso/casa entera que acomode 1 persona, 3 personas, 4 personas o 6 personas.
