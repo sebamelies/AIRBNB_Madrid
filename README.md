@@ -132,7 +132,7 @@ El número de shared_room que acomodan 6 personas, tienen un precio de menos de 
 
 // No hay habitación compartida de 3 personas listada sin WIFI, por lo tanto solo muestra el valor True.  
 // No hay habitación compartida de 6 personas listada sin calefacción, por lo tanto solo muestra el valor True.  
-// No hay habitaciones compartidas de 5 personas listadas por menos de 70 euros. //
+// No hay habitaciones compartidas de 5 personas listadas por menos de 70 euros. 
 
 El número de shared_room que acomodan 5 personas y tienen un precio de menos de 70 euros es: 0  
 El número de shared_room que acomodan 6 personas y tienen un precio de menos de 70 euros es: 9  
